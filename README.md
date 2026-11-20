@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Yuqing 👋
+
+CS graduate and M.S. Information Technology & Web Science student at
+Rensselaer Polytechnic Institute. Previously a Technical Product Analyst
+co-op at Johnson & Johnson and an LLM security research assistant at RPI.
 
 <!--
 **Yuqing-Peng/Yuqing-Peng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
